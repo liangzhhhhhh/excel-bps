@@ -1,0 +1,4 @@
+ARG MANAGER_BASE
+FROM ${MANAGER_BASE}
+COPY apps/web/dist/index.html /opt/cpa-bps/management.html
+ENV PANEL_PATH=/opt/cpa-bps/management.html

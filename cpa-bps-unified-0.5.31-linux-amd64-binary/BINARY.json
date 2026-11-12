@@ -1,0 +1,22 @@
+{
+  "format": 1,
+  "version": "0.5.31",
+  "platform": "linux/amd64",
+  "files": {
+    "README.md": "cf19f1fdde577d3cdba3e37e32110ed32549287908a576de3df05887e6d635a8",
+    "install.sh": "d2d1cc666fbf9b7b621605e5e9551ad406911de80f77b6175ab3f34dbfede7f0",
+    "panel/Dockerfile.bps-panel": "c87fab1083800f648d4b504933ecaf445066d511e26ec19bb226a8e1c8af5cce",
+    "panel/LICENSE": "4c34f41a29f20a622375ead744944e1d0d1a148f9677fae65b2601eb0949bc7f",
+    "panel/apps/web/dist/index.html": "98f2728ecddb0ca7cff89a6f0f395a876085704cd0101ed370eff4db8b646db3",
+    "panel/scripts/upgrade-bps-panel.py": "21543efc27389153a588f3feb255cc819ebd49a8634ba7f7049e40f4c64343aa",
+    "plugin/dist/SHA256SUMS": "f6b01e9469d78b2b37f6e86229a1184317b62f90c2a5ac70d742c41889864ba2",
+    "plugin/dist/bps-config": "783e66bbe129f9e5b5eea49e8eb568154388da256df2fa4bdef1c1f6428bec54",
+    "plugin/dist/cpa-bps.so": "8ad011f9952a2f5deedafe88ad14b77a26c89a0f2579ec9182cfb61342b3b0d1",
+    "plugin/dist/native-smoke": "c4e5b2ebc5f6a9085e6542cd67872847aac13230e307a8c876610a52385f2139",
+    "plugin/notices/Basispoints-LGPL-3.0.txt": "a5681bf9b05db14d86776930017c647ad9e6e56ff6bbcfdf21e5848288dfaf1b",
+    "plugin/notices/CPA-MIT.txt": "879792e89cf1bdd6a8d446033ec87e30496f97dcafc4656dc53f641509b346a6",
+    "plugin/notices/GHCP-UNLICENSE.txt": "6b0382b16279f26ff69014300541967a356a666eb0b91b422f6862f6b7dad17e",
+    "plugin/scripts/check-library.sh": "ab4cda1aede4fd6edd77ab9de201d168e274049717dac68f904fcf0fa6f807cc",
+    "plugin/scripts/install-unified.py": "107cf7fa01e96b6e5d328415e33f0cf360889c6bd96f62b42cca0d45bfd547ef"
+  }
+}
